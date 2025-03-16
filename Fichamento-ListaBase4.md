@@ -8,20 +8,26 @@ Este artigo explora como a inteligência artificial está remodelando a engenhar
 
 ## 2. Fichamento Bibliográfico 
 
-A IA está transformando a forma como desenvolvedores escrevem e revisam código (página 4).
+Integração de IA refere-se ao processo de incorporação de sistemas de inteligência artificial, como Modelos de Linguagem de Grande Escala (LLMs), nas atividades de desenvolvimento de software, visando melhorar a eficiência e produtividade do trabalho dos desenvolvedores (página 1).
 
-Ferramentas baseadas em IA podem reduzir erros, mas também introduzem novos desafios, como viés algorítmico (página 7).
+Engenharia de Requisitos é um campo essencial onde a IA pode facilitar a compreensão das necessidades dos usuários, através da análise e organização de dados, ajudando a elaborar especificações formais a partir de documentos fornecidos pelos stakeholders (página 3).
 
-O uso de IA na engenharia de software requer novas habilidades, incluindo a capacidade de avaliar criticamente as sugestões da IA (página 9).
+Comunicação Bidirecional descreve a interação entre humanos e IA, onde os desenvolvedores podem fornecer instruções à IA e receber feedback sobre a qualidade do código gerado, o que é essencial para um ciclo de desenvolvimento colaborativo (página 4).
 
-A integração de IA nas práticas de engenharia de software precisa ser acompanhada por regulações para evitar riscos éticos (página 11).
+Prompt Engineering é a habilidade de formular consultas e instruções claras para os sistemas de IA, o que influencia diretamente na qualidade do código gerado e na eficiência das interações com as ferramentas de software (página 4).
+
+Teste Automatizado é uma prática recomendada para garantir a validade e a segurança do código gerado pela IA, sendo fundamental para a manutenção da qualidade no desenvolvimento de software, especialmente em sistemas complexos (página 3).
+
+Supervisão Humana enfatiza a importância de envolver engenheiros de software na revisão e validação do que a IA produz, assegurando que as saídas respeitem os padrões necessários de qualidade e segurança (página 2).
 
 ## 3. Fichamento de Citações 
 
-"AI is revolutionizing software engineering, but developers must adapt to new paradigms of collaboration with intelligent tools."
+"A paradigm shift is underway in Software Engineering, with AI systems such as LLMs gaining increasing importance for improving software development productivity."
 
-"While AI can optimize certain processes, over-reliance on automated systems may lead to critical blind spots in software development."
+"The key research challenge will be to understand how effective prompt engineering can guide code generation."
 
-"The future of software engineering will be shaped not just by AI capabilities, but also by how well developers integrate and regulate these technologies."
+"AI serves as a tool to enhance developers’ productivity and cannot (in the near future) replace humans."
 
-"Addressing ethical concerns and bias in AI-generated code remains a fundamental challenge for the industry."
+"We must exercise caution against over-reliance on AI."
+
+"Our research community stands at the forefront of this revolution."

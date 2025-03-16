@@ -1,27 +1,31 @@
 # Some things never change: how far generative AI can really change software engineering practice
 
-Campos, Aline; Melegati, Jorge; Nascimento, Nicolas; Chanin, Rafael; Sales, Afonso; Wiese, Igor. "Some things never change: how far generative AI can really change software engineering practice", Jun - 2024. doi:
+Campos, Aline; Melegati, Jorge; Nascimento, Nicolas; Chanin, Rafael; Sales, Afonso; Wiese, Igor. "Some things never change: how far generative AI can really change software engineering practice", Jun - 2024. doi: https://arxiv.org/abs/2406.09725v1
 
 ## 1. Fichamento de Conteúdo
 
-O artigo investiga o impacto da inteligência artificial generativa na prática da engenharia de software. Os autores discutem a capacidade dessas tecnologias de transformar processos tradicionais, mas também apontam limitações que fazem com que certos aspectos da engenharia de software permaneçam inalterados. A pesquisa baseia-se em estudos de caso e análises qualitativas para avaliar a influência da IA generativa no desenvolvimento, revisão de código e manutenção de software. Os resultados indicam que, embora a IA melhore a produtividade e automatize algumas tarefas, ela ainda depende da supervisão humana e enfrenta desafios como a compreensibilidade do código gerado e a necessidade de ajustes manuais frequentes.
+O artigo explora o impacto da Inteligência Artificial Generativa (GenAI) nas práticas de Engenharia de Software (SE), analisando como essa tecnologia emergente pode transformar as atividades do setor. O problema central abordado é a necessidade de compreender as percepções e as opções dos profissionais de software frente à integração da GenAI em suas práticas diárias. Para isso, os autores conduziram uma pesquisa por meio de um questionário online, coletando dados de profissionais com significativa experiência em empresas de tecnologia. Os resultados indicam que, embora a GenAI possa aumentar a produtividade e a agilidade, algumas áreas, como a engenharia de requisitos e a gestão de projetos, ainda dependem fortemente da expertise humana e da criatividade. Assim, o estudo sugere que a GenAI pode ser uma assistência valiosa, mas muitas práticas críticas continuarão a ser desempenhadas por humanos.
 
 ## 2. Fichamento Bibliográfico 
 
-IA generativa pode auxiliar na automação do desenvolvimento de software, mas a supervisão humana continua essencial (página 3).
+Inteligência Artificial Generativa (GenAI) refere-se a ferramentas tecnológicas que geram conteúdo, potencialmente impactando atividades de Engenharia de Software, como teste de sistemas e geração de documentação (página 1).
 
-Revisão de código assistida por IA acelera a detecção de erros, mas não substitui completamente a revisão manual (página 6).
+Experiência dos participantes: O estudo coleta dados de participantes que têm entre 11 e 20 anos de experiência em Engenharia de Software, evidenciando a maturidade do grupo pesquisado (página 3).
 
-A compreensibilidade do código gerado automaticamente é um desafio para desenvolvedores (página 8).
+Agilidade e Aumento de Produtividade: Este conceito descreve como a GenAI pode reduzir tarefas manuais e repetitivas, permitindo que os desenvolvedores se concentrem em tarefas que exigem mais habilidades cognitivas (página 4).
 
-Algumas práticas fundamentais da engenharia de software, como revisão e testes, ainda dependem significativamente de especialistas (página 10).
+Análise e Suporte ao Desenvolvimento: Refere-se à importância da GenAI em ajudar na escrita de testes e geração de documentação, duas atividades que têm sido tradicionalmente manuais (página 5).
+
+Desafios Éticos: O artigo menciona questões de integridade de dados e segurança que devem ser consideradas na implementação de GenAI na Engenharia de Software (página 3).
 
 ## 3. Fichamento de Citações 
 
-"Despite the impressive capabilities of generative AI, the core principles of software engineering remain largely unchanged."
+"A generative AI is perceived as a workforce capable of supporting project productivity and agility"
 
-"While AI-generated code can be syntactically correct, ensuring its maintainability and efficiency still requires human intervention."
+"Some areas are likely to remain unchanged, especially those requiring human expertise and creativity"
 
-"Developers report that AI-assisted reviews reduce the time spent on code analysis but do not eliminate the need for manual validation."
+"The need for experts with deep domain knowledge is especially true in complex or specialized fields where experience, critical thinking, and intuition are important"
 
-"The adoption of generative AI in software engineering introduces both opportunities and new challenges that organizations must carefully navigate."
+"GenAI can assist in creating API documentation, insert code comments, and create user manuals easily"
+
+"The way we operate today will be assisted by GenAI, especially in repetitive tasks, but the main decisions will continue to be performed by humans"
