@@ -5,28 +5,28 @@ Dec - 2024. doi: https://dl.acm.org/doi/abs/10.1145/3686852.3686881
 
 ## 1. Fichamento de Conteúdo
 
-O artigo explora o uso de inteligência artificial na educação em engenharia de software, com foco na previsão de defeitos em código. Os autores utilizam um modelo de aprendizado de máquina baseado em árvore para analisar padrões de erros e auxiliar estudantes no desenvolvimento de software de maior qualidade. A pesquisa incluiu experimentos com estudantes universitários, avaliando o impacto da ferramenta no aprendizado e na detecção precoce de falhas. Os resultados mostraram que o uso da IA melhora a compreensão dos alunos sobre erros comuns e boas práticas de programação, mas também levanta desafios relacionados à dependência da tecnologia e à necessidade de interpretação crítica dos resultados gerados.
+O artigo apresenta um estudo sobre a aplicação de Reinforcement Learning (RL) na melhoria do comportamento de NPCs (Non-Player Characters) em jogos educacionais, especificamente no jogo CyberHero. O problema abordado é a limitação de abordagens hardcoded na programação de comportamentos dos NPCs, que resultam em ações previsíveis e pouco envolventes. Para resolver essa limitação, o autor implementa o algoritmo Q-Learning, uma técnica de aprendizado por reforço, que permite que os NPCs se adaptem dinamicamente às situações de jogo, otimizando suas interações com os jogadores. Os resultados mostram que os NPCs treinados com RL apresentaram um comportamento mais diversificado e estratégico em comparação com aqueles programados de forma rígida. Além disso, o jogo inclui um mini-jogo sobre a criação de senhas fortes, que também contribui para a alfabetização digital dos jogadores ao ensiná-los sobre segurança online. O estudo, assim, não apenas demonstra a eficácia do RL em aprimorar a jogabilidade, mas também promove objetivos educacionais relevantes.
 
 ## 2. Fichamento Bibliográfico 
 
-Modelos de aprendizado de máquina baseados em árvore podem prever defeitos de software com alta precisão. (página 4)
+Este artigo explora a implementação do Aprendizado por Reforço (RL) para melhorar o comportamento de personagens não jogáveis (NPCs) no jogo educacional "CyberHero", promovendo a alfabetização digital. (página 2)
 
-O uso de IA no ensino ajuda estudantes a identificar padrões de erro mais rapidamente. (página 6)
+A metodologia de Q-Learning foi aplicada para otimizar as decisões dos NPCs, que foram programados para responder a estados como "Distância do Jogador" e "Paredes Detectadas", resultando em comportamentos adaptativos e diversificados. (página 1).
 
-A dependência excessiva de ferramentas automatizadas pode reduzir a capacidade de raciocínio crítico dos alunos. (página 8)
+Durante o treinamento, a Tabela Q registrou 1.280 entradas, demonstrando uma variedade de ações que superam a abordagem de NPCs pré-programados, que apresentaram ações limitadas e recompensas médias mais baixas.(página 1)
 
-O estudo demonstrou que a integração de IA na educação em engenharia de software melhora a qualidade do código produzido pelos estudantes. (página 10)
+O projeto também incorporou um minijogo de Conscientização sobre Segurança, fornecendo educação interativa sobre a escolha de senhas fortes, aumentando assim o valor educativo do jogo. (página 1)
 
-A interpretação dos resultados gerados pela IA ainda requer intervenção humana para evitar falsas previsões. (página 12)
+QLeaning facilitou uma seleção mais diversificada e estratégica de ações, melhorando a experiência geral de jogo. (página 4)
 
 ## 3. Fichamento de Citações 
 
-"Artificial intelligence can enhance software engineering education by providing real-time defect predictions, allowing students to improve code quality efficiently."
+"The objective of a reinforcement learning problem is specified by the reward signal, which is a single number provided by the environment to the RL agent at each time step".
 
-"While AI-driven tools support learning, excessive reliance on automation may hinder students' ability to think critically about coding problems."
+"The agent trained by competing against five professional gamers achieved a commendable win rate of 62%".
 
-"Machine learning models, particularly tree-based approaches, have demonstrated significant accuracy in predicting software defects."
+"The Q-Learning model produced diverse and adaptive behaviors, significantly outperforming the hardcoded approach".
 
-"The integration of AI in education must be balanced to ensure students develop both technical and analytical skills."
+"This dynamic adaptability is crucial for educational games that aim to improve literacy".
 
-"Human oversight remains essential, as AI predictions are not infallible and can sometimes mislead learners."
+"The implementation of RL has demonstrated its effectiveness, as evidenced by the generation of a more diverse set of actions compared to the traditional hardcoded approach".

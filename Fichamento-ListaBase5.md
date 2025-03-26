@@ -1,31 +1,31 @@
-# Code on Demand: A Comparative Analysis of the Efficiency Understandability and Self-Correction Capability of Copilot ChatGPT and Gemini
+# Interactively evolved modular neural networks for game agent control
 
-Batista, Samuel Silvestre; Branco, Bruno; Castro, Otávio; Avelino, Guilherme. "Code on Demand: A Comparative Analysis of the Efficiency Understandability and Self-Correction Capability of Copilot ChatGPT and Gemini", Dez - 2024. doi: https://dl.acm.org/doi/10.1145/3701625.3701673
+Reeder, John; Miguez, Roberto; Sparks, Jessica; Georgiopoulos, Michael; Anagnostopoulos, Georgios. "Interactively evolved modular neural networks for game agent control", Dec - 2008. doi: https://ieeexplore.ieee.org/document/5035636
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo compara o desempenho de três ferramentas de IA – GitHub Copilot, ChatGPT e Gemini – na geração automática de código. Os autores analisam eficiência, legibilidade e capacidade de autocorreção dos modelos em diferentes cenários. Foram realizados testes experimentais, onde cada ferramenta recebeu problemas de programação para resolver, sendo avaliados fatores como tempo de resposta, clareza do código gerado e precisão das correções. Os resultados indicam que nenhuma ferramenta supera completamente as demais, mas cada uma apresenta vantagens específicas conforme o contexto do problema.
+O artigo aborda a evolução de comportamentos de agentes em jogos eletrônicos, destacando a crescente necessidade de realismo nas interações desses agentes. O problema central é a limitação dos sistemas de inteligência artificial que se baseiam na programação rígida, resultando em comportamentos previsíveis e incapazes de adaptação a novos contextos. Para resolver isso, os autores introduzem uma abordagem que combina evolução modular em tempo real com aprendizagem por reforço e evolução interativa, permitindo que os agentes desenvolvam comportamentos mais dinâmicos e apropriados ao ambiente do jogo. Utilizando o framework XNA e o jogo Net Rumble como base de teste, eles demonstram que a implementação dessas técnicas resulta em melhorias significativas na performance dos agentes, com um aumento na adaptabilidade e na variação de comportamentos do que as abordagens tradicionais.
 
 ## 2. Fichamento Bibliográfico 
 
-O Copilot tem melhor integração com IDEs, mas pode gerar código menos compreensível. (página 3)
+Neuroevolution (neuroevolução) é o uso de algoritmos genéticos para evoluir redes neurais artificiais que podem resolver problemas de aprendizagem por reforço (página 1)
 
-ChatGPT apresenta maior clareza na explicação do código gerado. (página 5)
+Interactive Evolutionary Computation (IEC) refere-se à combinação de computação evolucionária e feedback humano para otimizar soluções que não têm resultados bem definidos (página 3)
 
-Gemini demonstrou maior capacidade de autocorreção em testes de erro. (página 7)
+Reinforcement learning (aprendizagem por reforço) envolve a aprendizagem de um agente por meio de recompensas e punições baseadas nas ações realizadas em um ambiente (página 2)
 
-Todas as ferramentas possuem limitações e requerem supervisão humana. (página 9)
+Modular neural networks (redes neurais modulares) são uma arquitetura que permite compor redes independentes para resolver subproblemas, levando a uma evolução mais eficiente (página 6)
 
-A eficiência da IA na programação varia conforme o tipo de problema apresentado. (página 11)
+XNA é um conjunto de ferramentas para desenvolvedores de jogos que promove a reutilização de código (página 1)
 
 ## 3. Fichamento de Citações 
 
-"Each AI-powered tool presents trade-offs in efficiency, clarity, and self-correction capabilities."
+"Developing realistic and adaptable agent behavior is an important problem in Artificial Intelligence."
 
-"Despite advancements, human intervention remains essential to ensure code quality and correctness."
+"Machine Learning techniques can be utilized to provide the adaptability needed to produce convincing artificial intelligence in games."
 
-"Copilot seamlessly integrates into development environments but may produce harder-to-read code compared to ChatGPT."
+"A database was created where one can both save and load bot populations that have been evolved."
 
-"Gemini exhibited superior self-correction abilities when prompted with faulty code."
+"The integration of reinforcement learning and interactive evolution is expected to achieve more desirable agent behaviors in a more efficient manner."
 
-"Automated coding tools enhance productivity but are not yet substitutes for experienced developers."
+"By using intelligent selection mechanisms such as ε-greedy, exploration of policies can be appropriately balanced with exploitation."

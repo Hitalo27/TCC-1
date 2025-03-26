@@ -1,25 +1,24 @@
-1. Alhazeem, Ensaf; Alsobeh, Anas; Al-Ahmad, Bilal. "Enhancing software engineering education through AI: An empirical study of tree-based machine learning for defect prediction" in Association for Computing Machinery, Dec, 2024. doi: https://dl.acm.org/doi/abs/10.1145/3686852.3686881
+1. Sukmana, Septian Enggar; Khairy, Muh. Shulhan; Ratsanjani, Muh. Hasyim; Rahmad, Cahya; Maskur; S., M. Afada Nur Saiva. "Reinforcement Learning for AI NPC Literacy Educational Game", Sep - 2024. doi: https://ieeexplore.ieee.org/document/10762983
 
-2. Wang, Lei. "AI in Software Engineering: Case Studies and Prospects" in University of Western Australia, Oct - 2017. doi: https://arxiv.org/abs/2309.15768
+2. Campos, Aline; Melegati, Jorge; Nascimento, Nicolas; Chanin, Rafael; Sales, Afonso; Wiese, Igor. "Some things never change: how far generative AI can really change software engineering practice", Jun - 2024. doi: https://arxiv.org/abs/2406.09725v1
 
-3. Campos, Aline; Melegati, Jorge; Nascimento, Nicolas; Chanin, Rafael; Sales, Afonso; Wiese, Igor. "Some things never change: how far generative AI can really change software engineering practice", Jun - 2024. doi: https://arxiv.org/abs/2406.09725v1
+3. Pfau, João; Liapis, Antonios; Yannakakis, Georgios N.; Malaca, Rainer."Dungeons & Replicants II: Automated Game Balancing Across Multiple Difficulty Dimensions via Deep Player Behavior Modeling", Apr - 2022. doi: https://ieeexplore.ieee.org/document/9760165
 
-4. Terragni, Valerio; Roop, Partha; Blincoe, Kelly. "The Future of Software Engineering in an AI-Driven World", Jun - 2024. doi: https://arxiv.org/abs/2406.07737
+4. Glavin, Frank G.; Madden, Michael G. "Skilled Experience Catalogue: A Skill-Balancing Mechanism for Non-Player Characters using Reinforcement Learning", Aug - 2018. doi: https://ieeexplore.ieee.org/document/8490405
 
-5. Batista, Samuel Silvestre; Branco, Bruno; Castro, Otávio; Avelino, Guilherme. "Code on Demand: A Comparative Analysis of the Efficiency Understandability and Self-Correction Capability of Copilot ChatGPT and Gemini" in Association for Computing Machinery, Dec - 2024. doi: https://dl.acm.org/doi/10.1145/3701625.3701673
+5. Reeder, John; Miguez, Roberto; Sparks, Jessica; Georgiopoulos, Michael; Anagnostopoulos, Georgios. "Interactively evolved modular neural networks for game agent control", Dec - 2008. doi: https://ieeexplore.ieee.org/document/5035636
 
-6. Calegario, Filipe; Burégio, Vanilson; Erivaldo, Francisco; Andrade, Daniel Moraes Costa; Felix, Kailane; Barbosa, Nathalia; Lucena, Pedro Lucas da Silva; França, César. "Exploring the intersection of Generative AI and Software Development" in Universidade Federal Rural de Pernambuco - UFRPE, Dec - 2023. doi: https://arxiv.org/abs/2312.14262
+6. Batista, Samuel Silvestre; Branco, Bruno; Castro, Otávio; Avelino, Guilherme. "Code on Demand: A Comparative Analysis of the Efficiency Understandability and Self-Correction Capability of Copilot ChatGPT and Gemini" in Association for Computing Machinery, Dec - 2024. doi: https://dl.acm.org/doi/10.1145/3701625.3701673
 
-7. Tran, Nhi; Tran, tan; Nguyen, Nam. "Leveraging AI for Enhanced Software Effort Estimation: A Comprehensive Study and Framework Proposal", Feb - 2024. doi: https://arxiv.org/abs/2402.05484
+7. Sena, Jefferson; Barreto, Adriano; John, Barbosa; Alves, Keyla. "Potentials and challenges of github copilot as an artificial intelligence tool" in Revista P2P e INOVAÇÃO, v. 10, n. 2, 2024. doi: https://brapci.inf.br/v/303607
 
-8. Sena, Jefferson; Barreto, Adriano; John, Barbosa; Alves, Keyla. "Potentials and challenges of github copilot as an artificial intelligence tool" in Revista P2P e INOVAÇÃO, v. 10, n. 2, 2024. doi: https://brapci.inf.br/v/303607
+8. Zhasulanov, Dinmukhammed; Marat, Bekarys; Erkin, Kuanysh; Omirgaliyev, Ruslan; Kushekkaliyev, Alman; Zhakiyev, Nurkhat. "Enhancing Gameplay Experience Through Reinforcement Learning in Games", May - 2024. doi: https://ieeexplore.ieee.org/document/10629511
 
-9. Borges, George Daniel Marques; Lima, Sósthenes Oliveira. "ARTIFICIAL INTELLIGENCE APPLIED TO SOFTWARE QUALITY", Sep - 2024. doi: https://revistaft.com.br/inteligencia-artificial-aplicada-a-qualidade-de-software/
+9. Levytskyi, Volodymyr; Tsiutsiura, Mykola; Yerukaiev, Andrii; Rusan, Nadiia; Li, Tao. "The Working Principle of Artificial Intelligence in Video Games", May - 2023. doi: https://ieeexplore.ieee.org/document/10223491
 
-10. Silva, Lidiane C.; Fernandes, Lucinara K. S.; Soares, Eder F.; Maia, Paulo Henrique M.; Santos, Ismayle S.; Oliveira, Francisco C. M. B. "Qualidade de Software para Engenheiros de IA: Um
-Estudo Inicial da Realidade Brasileira", in Universidade Estadual do Ceará, 2023. doi: https://sol.sbc.org.br/index.php/ise/article/download/26118/25941/
+10. Alhazeem, Ensaf; Alsobeh, Anas; Al-Ahmad, Bilal. "Enhancing software engineering education through AI: An empirical study of tree-based machine learning for defect prediction" in Association for Computing Machinery, Dec, 2024. doi: https://dl.acm.org/doi/abs/10.1145/3686852.3686881
 
-11. Crawford, Talia; Duong, Scott; Fueston, Richard; Lawani, Ayorinde; Owoade, Samuel; Uzoka, Abel; Parizi, Reza M.; Yazdinejad Abbas. "AI in Software Engineering: A Survey on Project Management Applications" in Cyber Science Lab, School of Computer Science, Jul - 2023. doi: https://arxiv.org/abs/2307.15224
+11. Liu, Xiao; Li, Yao; He, Suoju; Fu, Yiwen; Yang, Jiajian; Ji, Donglin. "To Create Intelligent Adaptive Game Opponent by Using Monte-Carlo for the Game of Pac-Man", Aug - 2009. doi: https://ieeexplore.ieee.org/document/5366867
 
 12. Niu, Changan; Zhang, Ting; Li, Chuanyi; Luo, Bin; Ng, Vincent. "On Evaluating the Efficiency of Source Code Generated by LLMs" in 2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge) Conference Acronym, Apr - 2024. doi: https://ieeexplore.ieee.org/document/10599574/authors#authors
 
@@ -27,4 +26,4 @@ Estudo Inicial da Realidade Brasileira", in Universidade Estadual do Ceará, 202
 
 14. Russo, Daniel. "Navigating the Complexity of Generative AI Adoption in Software Engineering" in Department of Computer Science, Aalborg University, Aalborg, Copenhagen, Denmark, Jun - 2024. doi: https://dl.acm.org/doi/pdf/10.1145/3652154
 
-15. Thongtanunam, Patanamon; Pornprasit, Chanathip; Tantithamthavorn, Chakkrit. "AutoTransform: Automated Code Transformation to Support Modern Code Review Process" in International Conference on Software EngineeringAt: Pittsburgh, PA, USA, Feb - 2022. doi: https://www.researchgate.net/publication/358486098_AutoTransform_Automated_Code_Transformation_to_Support_Modern_Code_Review_Process
+15. Terragni, Valerio; Roop, Partha; Blincoe, Kelly. "The Future of Software Engineering in an AI-Driven World", Jun - 2024. doi: https://arxiv.org/abs/2406.07737

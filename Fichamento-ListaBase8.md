@@ -1,31 +1,31 @@
-# Potentials and Challenges of GitHub Copilot as an Artificial Intelligence Tool
+# Enhancing Gameplay Experience Through Reinforcement Learning in Games
 
-Sena, Jefferson; Barreto, Adriano; John, Barbosa; Alves, Keyla. "Potentials and Challenges of GitHub Copilot as an Artificial Intelligence Tool", 2024. doi: https://brapci.inf.br/v/303607
+Zhasulanov, Dinmukhammed; Marat, Bekarys; Erkin, Kuanysh; Omirgaliyev, Ruslan; Kushekkaliyev, Alman; Zhakiyev, Nurkhat. "Enhancing Gameplay Experience Through Reinforcement Learning in Games", May - 2024. doi: https://ieeexplore.ieee.org/document/10629511
 
 ## 1. Fichamento de Conteúdo
 
-O artigo analisa o GitHub Copilot como uma ferramenta baseada em inteligência artificial para auxiliar desenvolvedores na escrita de código. Os autores investigam suas vantagens e limitações, destacando que a ferramenta pode aumentar a produtividade, mas apresenta desafios como erros de segurança, código difícil de compreender e necessidade de intervenção humana. O estudo foi realizado por meio de testes empíricos e entrevistas com desenvolvedores. Os resultados mostraram que o Copilot melhora a eficiência do desenvolvimento, mas pode gerar código incorreto, exigir correções e até reproduzir vieses algorítmicos. O artigo também aborda as implicações éticas e os desafios na adoção da IA na engenharia de software.
+O artigo aborda a evolução dos jogos eletrônicos e como a inteligência artificial, especificamente o aprendizado por reforço, pode melhorar a experiência de gameplay, particularmente através do comportamento de NPCs (personagens não jogáveis). O problema principal é a necessidade de criar ambientes de jogo mais inteligentes e adaptativos que possam manter o engajamento dos jogadores. Para isso, a pesquisa emprega o Unity ML-Agents Toolkit, que permite o desenvolvimento de agentes de inteligência artificial treinados com algoritmos de aprendizado por reforço em ambientes de jogo 2D e 3D. Os resultados indicam que a implementação desses agentes pode levar a experiências de jogo mais dinâmicas, onde o comportamento dos NPCs se adapta às ações dos jogadores, proporcionando um desafio e um engajamento maiores. No entanto, a pesquisa também revela lacunas na integração de algoritmos de aprendizado por reforço em diferentes gêneros de jogos e a necessidade de investigar como esses agentes podem ser usados para desenvolver estratégias de longo prazo no contexto de jogos.
 
 ## 2. Fichamento Bibliográfico 
 
-O GitHub Copilot se torna uma ferramenta inovadora, pelo seu poder de colaboração entre uma plataforma líder de desenvolvimento de software e uma potência de IA oferecendo aos desenvolvedores um nível sem precedentes de geração de código e assistência. (página 9)
+O artigo propõe a utilização de aprendizado por reforço (RL) como uma abordagem eficaz para melhorar a experiência de gameplay através do treinamento de agentes de inteligência artificial que se comportem de forma adaptativa em jogos. (página 1)
 
-As preocupações são com problemas de segurança associados ao uso do GitHub Copilot, tornando-se obstáculo para o crescimento dessa ferramenta. (página 15)
+A implementação do Unity ML-Agents Toolkit permite o desenvolvimento de NPCs que se adaptam às ações dos jogadores, resultando em interações mais dinâmicas e envolventes durante o jogo. (página 3)
 
-Dentre as limitações do GitHub Copilot, é que ela pode se tornar muito dependente de suas sugestões, o que pode levar à falta de compreensão do código subjacente. (página 10)
+Os desafios na integração de métodos de RL em diferentes gêneros de jogos indicam uma lacuna significativa na pesquisa atual, especialmente em relação ao desenvolvimento de agentes que planejam estratégias de longo prazo. (página 2)
 
-O estudo revelou que as principais preocupações dos desenvolvedores ao usarem o GitHub Copilot incluem a segurança do código gerado e a necessidade de aprimoramento de processos. (página 18)
+O aprendizado por reforço se destaca entre outros métodos de aprendizado de máquina, pois, ao invés de depender de conjuntos de dados fixos, ele adapta seu comportamento com base nas experiências acumuladas durante o jogo. (página 1)
 
-Os autores sugerem que os desafios enfrentados pelos programadores sejam tratados por meio de ferramentas estratégicas para melhorar a segurança e a qualidade do código. (página 19)
+A eficácia dos agentes de IA treinados com RL é medida não somente por recompensas numéricas, mas também pela satisfação e engajamento dos jogadores ao interagir com o ambiente de jogo. (página 6)
 
 ## 3. Fichamento de Citações 
 
-"O GitHub Copilot se torna uma ferramenta inovadora, pelo seu poder de colaboração entre uma plataforma líder de desenvolvimento de software e uma potência de IA oferecendo aos desenvolvedores um nível sem precedentes de geração de código e assistência."
+"One of the ways to enhance game experience is to replace non-playable characters (NPC) by machine learning (ML) agents."
 
-"Dentre as limitações do GitHub Copilot, como ferramenta de IA, é que ela pode se tornar muito dependente de suas sugestões, o que pode levar à falta de compreensão do código subjacente."
+"A distinctive feature of this work is the experimental design of the study aimed at evaluating the possibilities of learning with reinforcement to improve the gameplay"
 
-"O estudo revelou que as Potencialidades do uso GitHub Copilot se manifestam, pela ordem de importância, no aumento de Produtividade; na Programação de códigos; no Processamento de Linguagem Natural; no uso mais eficiente na codificação."
+"The integration of reinforcement learning methods into games has attracted considerable attention from both academia and the gaming industry"
 
-"A pesquisa revelou que os principais desafios dos programadores/desenvolvedores nas suas tarefas no dia a dia são, pela ordem de importância, a Segurança do código gerado e a necessidade de aprimoramento de Processos das atinentes tarefas ao GitHub Copilot."
+"Our hypothesis-oriented research schemes include null (H0) and alternative (H1) hypotheses"
 
-"O uso do Copilot levanta questões de direitos autorais, pois o código gerado pode ser baseado em trechos de código de terceiros."
+"Trained agents can be used for various purposes, including controlling the behavior of NPCs"

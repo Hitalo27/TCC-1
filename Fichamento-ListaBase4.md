@@ -1,33 +1,32 @@
-# The Future of Software Engineering in an AI-Driven World
+# Skilled Experience Catalogue: A Skill-Balancing Mechanism for Non-Player Characters using Reinforcement Learning
 
-Terragni, Valerio; Roop, Partha; Blincoe, Kelly. "The Future of Software Engineering in an AI-Driven World", Jun - 2024. doi: https://arxiv.org/abs/2406.07737
+Glavin, Frank G.; Madden, Michael G. "Skilled Experience Catalogue: A Skill-Balancing Mechanism for Non-Player Characters using Reinforcement Learning", Aug - 2018. doi: https://ieeexplore.ieee.org/document/8490405
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo explora como a inteligência artificial está remodelando a engenharia de software e o que isso significa para o futuro da profissão. Os autores discutem o papel da IA na automação de tarefas como detecção de erros, revisão de código e escrita de documentação. A pesquisa destaca que, embora a IA possa aumentar significativamente a produtividade, ela também apresenta desafios como viés algorítmico, falta de contextualização em decisões complexas e dependência excessiva de sugestões automatizadas. O artigo sugere que engenheiros de software precisarão desenvolver novas competências para trabalhar com ferramentas baseadas em IA.
+O artigo apresenta um mecanismo inovador para ajustar a habilidade de personagens não jogáveis (NPCs) em jogos, com foco em jogos de tiro em primeira pessoa (FPS). O problema central abordado é a desproporção de habilidades entre o NPC e os oponentes humanos, o que pode afetar a experiência de jogo. Os autores, Frank G. Glavin e Michael G. Madden, propõem o Skilled Experience Catalogue (SEC), que utiliza um sistema de aprendizado por reforço para registrar políticas de aprendizado em diferentes pontos durante uma fase de treinamento. Essa abordagem permite que o NPC ajuste sua proficiência em armas de acordo com seu desempenho em tempo real, possibilitando uma experiência de jogo mais equilibrada. Os resultados demonstram que o SEC consegue igualar a performance dos NPCs contra oponentes de diversas habilidades, mostrando potencial para ser aplicado em diferentes gêneros de jogos, além de melhorar a dinâmica de jogo.
 
 ## 2. Fichamento Bibliográfico 
 
-Integração de IA refere-se ao processo de incorporação de sistemas de inteligência artificial, como Modelos de Linguagem de Grande Escala (LLMs), nas atividades de desenvolvimento de software, visando melhorar a eficiência e produtividade do trabalho dos desenvolvedores (página 1).
+O objetivo deste mecanismo é aproximar o nível de habilidade de um NPC ao de um oponente em tempo real (página 1)
 
-Engenharia de Requisitos é um campo essencial onde a IA pode facilitar a compreensão das necessidades dos usuários, através da análise e organização de dados, ajudando a elaborar especificações formais a partir de documentos fornecidos pelos stakeholders (página 3).
+O NPC continua a aprender em tempo real usando aprendizado por reforço, mas sua política é ajustada, conforme necessário, carregando os marcos mais adequados para as circunstâncias atuais. (página 1)
 
-Comunicação Bidirecional descreve a interação entre humanos e IA, onde os desenvolvedores podem fornecer instruções à IA e receber feedback sobre a qualidade do código gerado, o que é essencial para um ciclo de desenvolvimento colaborativo (página 4).
+Os marcos da linha do tempo de experiência são armazenados ao registrar a política de RL em intervalos definidos durante a fase de treinamento. (página 3)
 
-Prompt Engineering é a habilidade de formular consultas e instruções claras para os sistemas de IA, o que influencia diretamente na qualidade do código gerado e na eficiência das interações com as ferramentas de software (página 4).
+Se o KDD entre o NPC e o oponente exceder um valor de 5... a política reverterá para o marco anterior do SEC. (página 4)
 
-Teste Automatizado é uma prática recomendada para garantir a validade e a segurança do código gerado pela IA, sendo fundamental para a manutenção da qualidade no desenvolvimento de software, especialmente em sistemas complexos (página 3).
+A abordagem é limitada pelo limite superior de desempenho que o NPC pode alcançar, e, portanto, o componente de aprendizado deve ser bem definido para evitar potenciais estagnações em mínimos locais durante a fase de aprendizado. (página 1)
 
-Supervisão Humana enfatiza a importância de envolver engenheiros de software na revisão e validação do que a IA produz, assegurando que as saídas respeitem os padrões necessários de qualidade e segurança (página 2).
 
 ## 3. Fichamento de Citações 
 
-"A paradigm shift is underway in Software Engineering, with AI systems such as LLMs gaining increasing importance for improving software development productivity."
+"The objective of this mechanism is to approximately match the skill level of an NPC to an opponent in real-time."
 
-"The key research challenge will be to understand how effective prompt engineering can guide code generation."
+"The NPC continues to learn in real-time using reinforcement learning but its policy is adjusted, as required, by loading the most suitable milestones for the current circumstances."
 
-"AI serves as a tool to enhance developers’ productivity and cannot (in the near future) replace humans."
+"The success of our approach relies on the implicit assumption that, during the training phase, the skill-level grows monotonically as the learning time increases."
 
-"We must exercise caution against over-reliance on AI."
+"Our application of SEC is concerned with balancing the Assault Rifle skill of a Deathmatch NPC playing against a single opponent."
 
-"Our research community stands at the forefront of this revolution."
+"The results for SEC are very promising and show that, using a threshold mechanism and milestones from the learning timeline, we can closely match the level of five different fixed-strategy opponents."

@@ -1,33 +1,31 @@
-# Artificial Intelligence Applied to Software Quality
+# The Working Principle of Artificial Intelligence in Video Games
 
-Borges, George Daniel Marques; Lima, Sósthenes Oliveira. "Artificial Intelligence Applied to Software Quality", Sep - 2024. doi: https://revistaft.com.br/inteligencia-artificial-aplicada-a-qualidade-de-software/
+ Levytskyi, Volodymyr; Tsiutsiura, Mykola; Yerukaiev, Andrii; Rusan, Nadiia; Li, Tao. "The Working Principle of Artificial Intelligence in Video Games", May - 2023. doi: https://ieeexplore.ieee.org/document/10223491
 
 ## 1. Fichamento de Conteúdo
 
-O artigo examina a aplicação da Inteligência Artificial (IA) na melhoria da qualidade de software, com um foco especial na sua integração com os processos de desenvolvimento tradicionais. Ele aborda o crescente interesse em como técnicas de IA podem aprimorar a automação de testes, a detecção de defeitos e o monitoramento de desempenho em sistemas de software. A pesquisa foi conduzida através de uma revisão da literatura e análises de casos práticos, identificando os benefícios e desafios dessa integração. Entre os resultados, destaca-se que, embora a IA possa aumentar significativamente a eficiência e precisão dos testes de software, a adaptação a sistemas legados e a necessidade de grandes volumes de dados são barreiras significativas. O estudo conclui que a implementação de IA requer mudanças substanciais nas práticas de desenvolvimento e um novo conjunto de habilidades para os engenheiros de software, oferecendo diretrizes para uma integração mais eficaz das tecnologias de IA.
+O artigo detalha os princípios de funcionamento da inteligência artificial (IA) nos videogames, enfatizando a sua aplicação na criação de personagens não jogáveis (NPCs) que simulam comportamentos inteligentes para oferecer uma experiência envolvente ao jogador. O problema abordado é a necessidade de tornar os NPCs mais adaptativos e responsivos às ações dos jogadores, buscando aumentar a imersão e a desafiabilidade dos jogos. O estudo revisa diversas abordagens metodológicas no design de IA, incluindo sistemas baseados em regras, árvores de decisão e algoritmos de aprendizado de máquina, que permitem aos NPCs obter informações do ambiente e atuar de acordo com contextos dinâmicos. Apesar de as limitações atuais em termos de criatividade e resolução de problemas serem evidentes, os autores argumentam que a integração de IA é vital para o desenvolvimento de jogos, proporcionando profundidade e valor de replay. Os resultados sugerem que enquanto as tecnologias de IA evoluem, um equilíbrio entre a complexidade técnica e a jogabilidade deve ser mantido para garantir uma experiência satisfatória ao usuário.
 
 ## 2. Fichamento Bibliográfico 
 
-"A metodologia adotada para a realização desta pesquisa baseou-se em uma revisão de literatura, que de acordo com Gil (2010), essa é uma abordagem amplamente utilizada em pesquisas acadêmicas com o objetivo de analisar, sintetizar e avaliar criticamente os estudos já existentes sobre um tema específico e no presente e trabalho" (página 15)
+AI (Inteligência Artificial) é um conjunto de algoritmos projetados para ditar como os NPCs se comportam em diversas situações dentro de um jogo. (página 1)
 
-"Este trabalho caracteriza-se como uma pesquisa qualitativa, pois visa a análise profunda dos estudos disponíveis, sem se limitar a dados quantitativos" (página 15)
+Rule-based systems (sistemas baseados em regras) utilizam um conjunto de regras pré-determinadas para ditar o comportamento dos NPCs. (página 1)
 
-"Para garantir a relevância e a confiabilidade das fontes utilizadas, a pesquisa foi realizada em bases de dados acadêmicas renomadas, como IEEE Xplore, ACM Digital Library, ScienceDirect e Google Scholar, que são amplamente reconhecidas por fornecerem acesso a artigos de alta qualidade revisados por pares." (página 15)
+Decision trees (árvores de decisão) usam uma estrutura hierárquica para determinar a melhor ação com base na situação atual. (página 1)
 
-"A coleta de dados foi conduzida por meio de buscas utilizando palavras-chave diretamente relacionadas ao tema, tais como 'inteligência artificial', 'qualidade de software', 'automação de testes', 'aprendizado de máquina' e 'detecção de defeitos'" (página 16)
+Behavior tree (árvore de comportamento) é uma abordagem formalizada que organiza os estados de um personagem em uma estrutura ramificada. (página 3)
 
-"A análise mostra que, apesar dos benefícios, existem desafios substanciais na implementação de IA, especialmente relacionados à adaptação a sistemas legados e à necessidade de grandes volumes de dados para treinar os modelos, onde esses desafios demonstram a problemática identificada na introdução" (página 22)
-
-"Essa pesquisa então, contribui para a compreensão das barreiras e propõe diretrizes para a implementação prática da IA" (página 23)
+Hierarchical Task Network (rede de tarefas hierárquica) cria planos que consistem em macros de ação, usadas para resolver tarefas complexas dentro do jogo. (página 4)
 
 ## 3. Fichamento de Citações 
 
-"A inteligência artificial tem o potencial de transformar a qualidade de software ao aprimorar testes automatizados e a detecção de falhas com maior precisão."
+"AI in games is a set of algorithms designed to dictate non-playable characters (NPCs) on how to behave in different situations within a game."
 
-"A adaptação de IA a sistemas legados continua sendo um dos desafios mais complexos para sua implementação eficaz."
+"The primary goal of AI in games is to simulate intelligence in NPCs to provide an entertaining and challenging experience for players during the game's progression."
 
-"A IA pode melhorar significativamente o processo de testes e reduzir o tempo de entrega de software de qualidade."
+"One of the simplest and most understandable methods is rule-based AI."
 
-"A necessidade de grandes volumes de dados para treinar modelos eficazes ainda é um obstáculo significativo para pequenas e médias empresas adotarem essa tecnologia."
+"A behavior tree contains all possible states that a character can be in."
 
-"A implementação de IA exige não apenas mudanças tecnológicas, mas também uma transformação cultural dentro das equipes de desenvolvimento."
+"The potential for AI that can creatively solve tasks is promising."
